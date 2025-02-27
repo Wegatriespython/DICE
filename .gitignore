@@ -1,7 +1,6 @@
-.JLD2
-.png
-.jld2
-.jld
-.png
-.pdf
-.html
+# Ignore common data and output files
+*.jld2
+*.jld
+*.png
+*.pdf
+*.html
